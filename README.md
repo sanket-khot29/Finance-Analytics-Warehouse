@@ -1,9 +1,9 @@
-🏦 Bank Data Analysis 
+  🏦 Bank Data Analysis 
 
 📌 Problem Statement
 
   Banks generate a large amount of customer transaction data, but it is difficult to extract meaningful insights from raw data.
-  This project focuses on analyzing banking data to identify patterns, customer behavior, and business insights.
+  This project focuses on analyzing banking data to identify patterns, customer behavior , and business insights.
 
 🎯 Objective
 
@@ -39,7 +39,7 @@
 ⚙️ Process
 
   1. Data Collection
-  2. Data Cleaning (handled missing values & errors)
+  2. Data Cleaning ( handled missing values & errors )
   3. Data Analysis using Python & SQL
   4. Data Visualization using Power BI
 
