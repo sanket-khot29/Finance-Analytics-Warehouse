@@ -63,5 +63,5 @@
   * Enhance dashboard features
 
 👤 Author  
-    Sanket Khot   
+    Sanket Sambhaji Khot   
     Aspiring Data Analyst
